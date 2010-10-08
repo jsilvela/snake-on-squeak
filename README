@@ -1,0 +1,5 @@
+Code I wrote on Squeak.
+Get Squeak at http://www.squeak.org/
+
+To install the code, download the *.st file to your box, open a File browser and navigate to the file, then click the "install" button.
+Now open a Workspace, type "SnakeGameMorph new openInWorld", select the text in the window, and from the context menu, "(d)o it".
